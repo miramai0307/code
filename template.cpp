@@ -46,10 +46,7 @@ int main(){
   //freopen("o.out","w",stdout);
 
   cin>>t;
-  while(t--){
-
-    solve();
-  }
+  while(t--) solve();
 
   return 0;
 }
